@@ -19,3 +19,5 @@ At a  LEFT TURN :
 Move a little forward
 if there is a line:  Straight or LEFT - Go to LEFT
 If there is no line:  LEFT Only - Go to LEFT
+
+Project is implemented on Atmel using AT90USB1287
