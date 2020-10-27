@@ -4,6 +4,7 @@ DEAD END - U turn
 
 At a LINE :
 Move a little forward
+
 If there is a line  Cross - Go to LEFT
 If There is no line: T - Go to LEFT
 If there is another line: End of Maze  - STOP
